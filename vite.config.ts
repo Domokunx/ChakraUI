@@ -12,7 +12,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, "src", "pages", "index.html"),
         layout: resolve(__dirname, "src", "pages", "Layout", "index.html"),
-        forms: resolve(__dirname, "src", "pages", "Forms", "index.html"),
+        forms: resolve(__dirname, "src", "pages", "forms", "index.html"),
         themes: resolve(__dirname, "src", "pages", "Themes", "index.html"),
       },
     },
