@@ -22,6 +22,8 @@ const ResponsiveLayout = ({ colorMode }: Props) => {
       <Text>
         Instead of manually adding @media queries, you can use array or object
         syntax to define style at different breakpoints
+
+        Requires a bit of practice to understand
       </Text>
     </Box>
   );
